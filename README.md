@@ -1,4 +1,4 @@
-📊 SQL Projects Portfolio
+**📊 SQL Projects Portfolio**
 
 This repository contains multiple real-world SQL projects created using PostgreSQL.  
 Each project focuses on solving practical business problems using SQL queries and structured data.
